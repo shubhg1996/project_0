@@ -1,0 +1,31 @@
+center{
+	display: block;
+	text-align: -webkit-center;
+}
+#top{
+	height: 160px;
+	padding-top: 112px;
+	margin-top: 80px;
+}
+#logo{
+	background: white url(http://assets15.pokemon.com/static2/us/img/gcea_logo.png) no-repeat;
+	background-size: 450px 150px;
+	height: 150px;
+	width: 450px;
+	text-align: -webkit-left;
+
+}
+#searchbox{
+
+	width: 700px;
+	height: 30px;
+}
+#searchbox:hover{
+
+	border: 3px inset; 
+}
+#searchbutton{
+	height: 29px;
+	margin-top: 7px;
+	padding: 0px 4px 0px 4px;
+}
